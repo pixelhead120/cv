@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: #f6f5f5;
+    font-family: 'Biryani', sans-serif;
+} /* other colours #d3e0ea #1687a7 #276678 */
+hr{
+    border-style:none;
+    border-top: dotted lightgrey;
+    border-width: 8px;
+    width: 70px;
+    height: 5px;
+   }
+
+h1,
+h3{
+    color: #276678;
+}
